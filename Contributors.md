@@ -5,6 +5,7 @@
 - [Jonathan Apostol](https://github.com/dev-Jonathan)
 - [Urunov Hamdamboy] (https://github.com/urunov)
 - [Iqra Hashmi] (https://github.com/IqraHashmi)
+- [Morris Olutayo] (https://github.com/morrisolutayo)
 - [Ayush Jha](https://github.com/AyushJha121)
 - [HemanthKumar-CN](https://github.com/HemanthKumar-CN)
 - [Tanush Dhamija](https://github.com/tanushdhamija)
